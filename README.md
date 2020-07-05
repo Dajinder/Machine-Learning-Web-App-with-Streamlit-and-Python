@@ -1,0 +1,2 @@
+# Machine-Learning-Web-App-with-Streamlit-and-Python
+This is a machine learning web app created using streamlit and python. deployment of machine learning algorithms is one of the main aspect to be taken care of.  So here I tried to deploy the machine learning algorithm as a web app.This web app is used to classify weather the mushroom is edible or not using different algorithms like Logistic regression, Support Vector Machine(SVM) and Random Forest and concluding the accuracy, precision score and plotting the confusion matrix, ROC curve and Precision-Recall curve.
